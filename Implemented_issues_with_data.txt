@@ -1,0 +1,15 @@
+This document contains a summary of all the error implemeted in the data:
+
+Participating countries:
+- Watttopia (none existing country)
+- Year of participation of Brazil 2012 in stead of 2018
+- Nones inserted in the data for the colours (Denmark)
+
+Fifa ranking:
+- 2018 Germany huh a third column? 
+- 2018 Brazilll
+- ranks of Belgium and Argentina switched
+
+Matches:
+- some team scored 35 goals
+- some team scored -20 goals
